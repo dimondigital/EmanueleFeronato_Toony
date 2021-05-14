@@ -15,7 +15,5 @@ preview-swf files: https://drive.google.com/file/d/1DS0uX9DUltuzOdQrIhG8xT0UMsws
 https://drive.google.com/file/d/1mosfTZt9DS5jlqus9KpWZbs7F6lT2x1_/view?usp=sharing
 ver. 12_0r0_77_win_sa_debug
 
-#game #as3 #actionscript3 #flash #flashplayer
-
 Creted: Nov 24 2012
 Last updated: Apr 4 2013
